@@ -8,7 +8,7 @@
  * This work uses https://github.com/undecaf/zbar-wasm.git as per
  * LGPL-2.1 section 6 (https://opensource.org/licenses/LGPL-2.1).
  */
-const barcodeDetectorPolyfill=function(e,t){"use strict";
+export const barcodeDetectorPolyfill=function(e,t){"use strict";
 /*! *****************************************************************************
     Copyright (c) Microsoft Corporation.
 
